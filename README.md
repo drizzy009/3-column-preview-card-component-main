@@ -93,4 +93,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 
 Live link
-https://3-column-preview-card-component-main-neon.vercel.app/
+https://drizzy009-card-component-main-neon.vercel.app/
